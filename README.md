@@ -1,7 +1,7 @@
 Pauling
 =======
 
-| General | Android | iOS |
+| General | Android | iOS |amazing web 
 |---------|---------|-----|
 | [![CircleCI](https://circleci.com/gh/TailorDev/pauling/tree/master.svg?style=svg&circle-token=9df05dcadb0db10e2a6385385cbb62e1500a0e9f)](https://circleci.com/gh/TailorDev/pauling/tree/master) | [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=59a965b8c5290b0001524019&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/59a965b8c5290b0001524019/build/latest?branch=master) | [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=59a96b15b0d15500017f75fd&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/59a96b15b0d15500017f75fd/build/latest?branch=master)
 
